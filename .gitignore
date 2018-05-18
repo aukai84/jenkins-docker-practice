@@ -1,7 +1,8 @@
 # node modules
-
 node_modules
 
 # jenkins
-
 jenkins_home
+
+#vim swap files
+*.swp
